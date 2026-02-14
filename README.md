@@ -48,16 +48,16 @@ This helps recruiters screen candidates faster and helps job seekers understand 
 
  **Project Structure**
   
-ai-resume-screening-system/
+ai-resume-screening-system/                                                                                                                                                                                          
 |                                                                                                                                                                                                                    
 │
-├── resumes.py
-|
-├── resume_mentor.db (auto-generated locally)
-|
-├── requirements.txt
-|
-└── README.md
+├── resumes.py                                                                                                                                                                                                       
+|                                                                                                                                                                                                                    
+├── resume_mentor.db (auto-generated locally)                                                                                                                                                                        
+|                                                                                                                                                                                                                    
+├── requirements.txt                                                                                                                                                                                                 
+|                                                                                                                                                                                                                    
+└── README.md                                                                                                                                                                                                        
 
 
 **How to Run**
