@@ -50,7 +50,7 @@ This helps recruiters screen candidates faster and helps job seekers understand 
   
 ai-resume-screening-system/                                                                                                                                                                                          
 |                                                                                                                                                                                                                    
-│
+│                                                                                                                                                                                                                    
 ├── resumes.py                                                                                                                                                                                                       
 |                                                                                                                                                                                                                    
 ├── resume_mentor.db (auto-generated locally)                                                                                                                                                                        
