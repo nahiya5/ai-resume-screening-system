@@ -49,7 +49,7 @@ This helps recruiters screen candidates faster and helps job seekers understand 
  **Project Structure**
   
 ai-resume-screening-system/
-|
+|                                                                                                                                                                                                                    
 │
 ├── resumes.py
 |
