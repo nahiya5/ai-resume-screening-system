@@ -1,20 +1,25 @@
 **AI-Based Resume Screening and Job Recommendation System**
-* Overview
+
+
+**Overview**
 
 This project automates resume screening using Python, NLP, and SQL.
 It extracts key skills from resumes and compares them with job descriptions stored in a database.
 
-* The system calculates:
 
- Match Percentage
 
- Matched Skills
+ **The system calculates :**
+1. Match Percentage
 
- Missing Skills (Skill Gap Analysis)
+2. Matched Skills
+
+3. Missing Skills (Skill Gap Analysis)
 
 This helps recruiters screen candidates faster and helps job seekers understand how well they fit a role.
 
-* Features
+
+
+**Features**
 
 1. Resume processing (PDF supported)
 
@@ -28,17 +33,21 @@ This helps recruiters screen candidates faster and helps job seekers understand 
 
 6.  resume comparison for  job description
 
- *Tech Stack
+   
 
-Python
+***Tech Stack**
 
-SQLite
+1.Python
 
-NLP-based text processing
+2.SQLite
 
-Git & GitHub
+3.NLP-based text processing
 
-* Project Structure
+4.Git & GitHub
+
+
+ **Project Structure**
+  
 ai-resume-screening-system/
 │
 ├── resumes.py
@@ -46,18 +55,19 @@ ai-resume-screening-system/
 ├── requirements.txt
 └── README.md
 
-* How to Run
+
+**How to Run**
 
 Install dependencies:
 
 pip install -r requirements.txt
 
 
-* Run the script:
+ **Run the script:**
 
 python resumes.py
 
-* Example Job Description Used
+**Example Job Description Used**
 
 We are hiring a Python Developer.
 Required skills: Python, SQL, Django, Git, Linux.
