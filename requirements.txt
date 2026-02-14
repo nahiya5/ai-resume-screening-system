@@ -1,0 +1,7 @@
+ os
+ re
+ sqlite3
+ unicodedata
+ PyPDF2 
+ pytesseract
+ pdf2image 
